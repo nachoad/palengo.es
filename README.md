@@ -1,4 +1,4 @@
 # palengo.es
-Palengo website 🥳
+Palengo company website 🥳
 
 ![Screenshot](/img/screenshot.png)
